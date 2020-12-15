@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Conversores
 //
-//  Created by Eliani  Barreto on 14/12/20.
+//  Created by Eder Barreto on 14/12/20.
 //  Copyright © 2020 Eder Barreto. All rights reserved.
 //
 
